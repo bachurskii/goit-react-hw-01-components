@@ -1,0 +1,20 @@
+.statistics {
+  text-align: center;
+}
+.title {
+  font-size: 25px;
+  list-style: none;
+  color: gray;
+}
+.stat-list {
+  list-style: none;
+  display: flex;
+  padding: initial;
+}
+.statistics {
+  margin-left: 20px;
+  background: azure;
+}
+.percentage {
+  color: white;
+}
