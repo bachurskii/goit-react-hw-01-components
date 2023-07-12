@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import profile from './profile.css';
 
 const Profile = ({ username, tag, location, avatar, stats }) => {
   return (

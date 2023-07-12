@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import transaction from './transaction.css';
 
 const TransactionHistory = ({ items }) => {
   const visibleItems = items.slice(0, 5);

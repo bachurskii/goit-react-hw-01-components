@@ -1,7 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import friends from './friends.css';
-import styled from 'styled-components';
 
 const FriendListItem = ({ avatar, name, isOnline }) => {
   const statusStyle = {

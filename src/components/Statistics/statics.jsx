@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import statics from './statics.css';
 
 const getRandomColor = () => {
   const letters = '0123456789ABCDEF';
