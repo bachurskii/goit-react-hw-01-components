@@ -18,3 +18,7 @@
 .percentage {
   color: white;
 }
+.item-statistics {
+  display: flex;
+  flex-direction: column;
+}
